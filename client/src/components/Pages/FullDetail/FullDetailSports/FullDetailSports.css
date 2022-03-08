@@ -1,0 +1,9 @@
+
+@media (max-width: 960px){
+    .content{
+        display: block !important;
+    }
+    .rec_text{
+        text-align: left !important;
+    }
+}

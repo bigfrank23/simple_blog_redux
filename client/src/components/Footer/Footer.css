@@ -1,0 +1,5 @@
+.footer_contact{
+    background: linear-gradient(45deg, deeppink, darkblue) !important;
+    background: -webkit-linear-gradient(45deg, deeppink, darkblue) !important;
+    background: -webkit-gradient(45deg, deeppink, darkblue) !important;;
+}
